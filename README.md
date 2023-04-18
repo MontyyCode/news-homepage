@@ -44,6 +44,6 @@ Desktop-first workflow
 ## Author
 
 
-- Frontend Mentor - [MontyyCode](https://www.frontendmentor.io/profile/abdullah43577)
+- Frontend Mentor - [MontyyCode](https://www.frontendmentor.io/profile/MontyyCode)
 
 
