@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL:](https://github.com/MontyyCode/news-homepage.git)
-[Live Site URL:](https://news-homepagemain.netlify.app/)
+Solution URL: [Solution](https://github.com/MontyyCode/news-homepage.git)
+Live Site URL: [Live Site](https://news-homepagemain.netlify.app/)
 
 ## My process
 
